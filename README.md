@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a recommendation system that can help students choose courses based on their career interests and graduation criteria<br>
-👯 I’m looking to collaborate on interesting data science projects<br>
-🤝 I’m looking for Internships and full-time roles<br>
-🌱 I’m currently learning Deep Learning<br>
-💬 Ask me about Large language learning models
+👯 I’m looking to collaborate on interesting data science and analysis projects<br>
+🤝 I’m looking for full-time roles<br>
+🌱 I’m currently learning Cloud Computing<br>
+💬 Ask me about Data Analysis and LLMs
 
 
 ## 🌐 Socials:
