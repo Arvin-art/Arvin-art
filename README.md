@@ -1,8 +1,8 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on interesting data science and analysis projects<br>
+👯 AI Software Engineer at Sivotec<br>
 🤝 I’m looking for full-time roles<br>
-🌱 I’m currently learning Cloud Computing<br>
-💬 Ask me about Data Analysis and LLMs
+🌱 I’m currently learning ways to make AI accessible to customer facing businesses<br>
+💬 Ask me about LLMs, Agentic AI and ML Deployment
 
 
 ## 🌐 Socials:
