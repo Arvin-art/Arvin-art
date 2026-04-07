@@ -4,9 +4,9 @@ Professional AI Engineer focused on the intersection of Machine Learning, Softwa
 
 ## Technical Expertise
 
-* **Languages:** Python, TypeScript, C++, Java, R
+* **Languages:** Python, TypeScript, C++, R
 * **Artificial Intelligence:** Large Language Models (LLMs), LangChain, PyTorch, TensorFlow, scikit-learn, NLP
-* **MLOps & Infrastructure:** MLflow, Data Version Control (DVC), Docker, CI/CD for ML
+* **MLOps & Infrastructure:** MLflow, Dagshub, Data Version Control (DVC), Docker, CI/CD for ML
 * **Cloud & Databases:** AWS (Certified Solutions Architect), Google Cloud Platform (GCP), Neo4j, PostgreSQL, SQLite
 * **Full-Stack Development:** FastAPI, React, Node.js, TypeScript
 
@@ -35,9 +35,7 @@ Professional AI Engineer focused on the intersection of Machine Learning, Softwa
 * **Specialization in AI Systems Design:** Transitioning model-centric workflows to scalable, reliable AI ecosystems.
 
 ---
+## Metrics
+![My GitHub Metrics](https://raw.githubusercontent.com/Arvin-art/Arvin-art/main/github-metrics.svg)
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvin-art&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvin-art&layout=compact&theme=radical)
+---
